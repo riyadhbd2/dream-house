@@ -5,7 +5,7 @@ const Navbar = () => {
     <div className='container mx-auto flex justify-between items-center'>
       <div className='flex items-center justify-center gap-3 my-3'>
         <img className='w-16' src={logo} alt="" />
-        <h1>Easir Arafat</h1>
+        <h1>Dream Home</h1>
       </div>
       <div>
         <ul className='flex gap-5'>
